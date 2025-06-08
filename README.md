@@ -45,3 +45,5 @@ WHERE A> 15
 
 `````
 
+*ITALICS*
+**BOLD**
